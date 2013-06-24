@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboSharp", "RoboSharp\RoboSharp\RoboSharp.csproj", "{9111E9DA-EDA2-499E-8C6C-19972A529118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboSharpContent", "RoboSharp\RoboSharpContent\RoboSharpContent.contentproj", "{2753BB83-2607-4719-95AE-9CC902D4FFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboSharp.Library", "RoboSharp.Library\RoboSharp.Library.csproj", "{FDE64B3F-BB2E-41D8-AD96-2C98FA115F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboSharp.ContentPipeline", "RoboSharp.ContentPipeline\RoboSharp.ContentPipeline.csproj", "{7873EF28-54A8-4AC0-9D47-2DF1641C3771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9111E9DA-EDA2-499E-8C6C-19972A529118}.Debug|x86.ActiveCfg = Debug|x86
+		{9111E9DA-EDA2-499E-8C6C-19972A529118}.Debug|x86.Build.0 = Debug|x86
+		{9111E9DA-EDA2-499E-8C6C-19972A529118}.Release|x86.ActiveCfg = Release|x86
+		{9111E9DA-EDA2-499E-8C6C-19972A529118}.Release|x86.Build.0 = Release|x86
+		{2753BB83-2607-4719-95AE-9CC902D4FFC1}.Debug|x86.ActiveCfg = Debug|x86
+		{2753BB83-2607-4719-95AE-9CC902D4FFC1}.Release|x86.ActiveCfg = Release|x86
+		{FDE64B3F-BB2E-41D8-AD96-2C98FA115F4C}.Debug|x86.ActiveCfg = Debug|x86
+		{FDE64B3F-BB2E-41D8-AD96-2C98FA115F4C}.Debug|x86.Build.0 = Debug|x86
+		{FDE64B3F-BB2E-41D8-AD96-2C98FA115F4C}.Release|x86.ActiveCfg = Release|x86
+		{FDE64B3F-BB2E-41D8-AD96-2C98FA115F4C}.Release|x86.Build.0 = Release|x86
+		{7873EF28-54A8-4AC0-9D47-2DF1641C3771}.Debug|x86.ActiveCfg = Debug|x86
+		{7873EF28-54A8-4AC0-9D47-2DF1641C3771}.Debug|x86.Build.0 = Debug|x86
+		{7873EF28-54A8-4AC0-9D47-2DF1641C3771}.Release|x86.ActiveCfg = Debug|x86
+		{7873EF28-54A8-4AC0-9D47-2DF1641C3771}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
